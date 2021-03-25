@@ -1,0 +1,8 @@
+#borland gitignore
+*.exe
+*.tds
+*.obj
+*.~*
+*.il*
+script.rc
+compiled.res
